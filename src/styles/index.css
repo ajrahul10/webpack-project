@@ -1,0 +1,10 @@
+:root {
+    --text: #222;
+    --bg: peachpuff;
+}
+
+body {
+    margin: 0;
+    background-color: var(--bg);
+    color: var(--text);
+}

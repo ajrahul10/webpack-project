@@ -1,3 +1,5 @@
+import './styles/index.css'
+
 const omletteRecipe = {
     eggs: 4,
     salt: 1,
